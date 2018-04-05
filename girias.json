@@ -3,11 +3,28 @@
     {
       "name": [
         "chave",
-        "chavoso"
+        "chavoso",
+        "chavosa",
       ],
       "meaning": [
         "estiloso",
+        "estilosa",
+        "charmosa",
         "charmoso"
+      ]
+    },
+    {
+      "name": "recalque",
+      "meaning": "inveja"
+    },
+    {
+      "name": [
+        "recalcado",
+        "recalcada"
+      ],
+      "meaning": [
+        "invejoso",
+        "invejosa",
       ]
     }
   ]
