@@ -1,41 +1,47 @@
+
 {
   "slang": [
     {
-      "name": [
-        "chave",
-        "chavoso",
-        "chavosa",
-      ],
-      "meaning": [
-        "estiloso",
-        "estilosa",
-        "charmosa",
-        "charmoso"
-      ]
+      "name": "Chavosa",
+      "meaning": "Estilosa",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Chavoso",
+      "meaning": "Estiloso",
+      "description": "",
+      "reference": ""
     },
     {
       "name": "recalque",
-      "meaning": "inveja"
+      "meaning": "inveja",
+      "description": "",
+      "reference": ""
     },
     {
-      "name": [
-        "recalcado",
-        "recalcada"
-      ],
-      "meaning": [
-        "invejoso",
-        "invejosa",
-      ]
-    }
+      "name": "Recalcada",
+      "meaning": "Invejosa",
+      "description": "",
+      "reference": ""
+    },
     {
-      "name": [
-        "Talarico",
-        "Talarica"
-      ],
-      "meaning": [
-        "Traidor",
-        "Traidora",
-      ]
+      "name": "Recalcado",
+      "meaning": "Invejoso",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Talarica",
+      "meaning": "Traidora",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Talarico",
+      "meaning": "Traidor",
+      "description": "",
+      "reference": ""
     }
   ]
 }
