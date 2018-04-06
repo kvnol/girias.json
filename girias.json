@@ -1,4 +1,3 @@
-
 {
   "slang": [
     {
@@ -28,6 +27,12 @@
     {
       "name": "Chavoso",
       "meaning": "Estiloso",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Ligeiro",
+      "meaning": "Esperto",
       "description": "",
       "reference": ""
     },
