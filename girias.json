@@ -1,41 +1,113 @@
 {
   "slang": [
     {
-      "name": [
-        "chave",
-        "chavoso",
-        "chavosa",
-      ],
-      "meaning": [
-        "estiloso",
-        "estilosa",
-        "charmosa",
-        "charmoso"
-      ]
-    },
-    {
-      "name": "recalque",
-      "meaning": "inveja"
+      "name": "0800",
+      "meaning": "De graça",
+      "description": "",
+      "reference": ""
     },
     {
       "name": [
-        "recalcado",
-        "recalcada"
+        "13",
+        "Treze"
       ],
-      "meaning": [
-        "invejoso",
-        "invejosa",
-      ]
-    }
+      "meaning": "Maluco",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Bora",
+      "meaning": "Vamos",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Chavosa",
+      "meaning": "Estilosa",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Chavoso",
+      "meaning": "Estiloso",
+      "description": "",
+      "reference": ""
+    },
     {
       "name": [
-        "Talarico",
-        "Talarica"
+        "Firmeza",
+        "Pode pá",
+        "pdp"
       ],
-      "meaning": [
-        "Traidor",
-        "Traidora",
-      ]
+      "meaning": "Tudo certo",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Ligeiro",
+      "meaning": "Esperto",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Parça",
+      "meaning": "Amigo",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Recalque",
+      "meaning": "Inveja",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Recalcada",
+      "meaning": "Invejosa",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Recalcado",
+      "meaning": "Invejoso",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Talarica",
+      "meaning": "Traidora",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Talarico",
+      "meaning": "Traidor",
+      "description": "",
+      "reference": ""
+    },
+    {
+      "name": "Crush",
+      "meaning": "Paquera",
+      "description": "O termo Crush é semelhante ao termo 'queda' ou 'estar afim'. Exemplo na frase: Ele tem um crush nela/Ele esta afim dela",
+      "reference": ""
+    },
+    {
+      "name": "Parça",
+      "meaning": "Amigo",
+      "description": "O termo Parça é usado para dizer que uma pessoa é sua amiga. Exemplo: Ele é o meu parça/Ele é o meu amigo ",
+      "reference": ""
+    },
+    {
+      "name": "Pistolou",
+      "meaning": "Raiva",
+      "description": "O termo Pistolou é usado para dizer que uma pessoa está com muita raiva. Exemplo: Ele pistolou/Ele está com muita raiva ",
+      "reference": ""
+    },
+    {
+      "name": "Pisar",
+      "meaning": "Humilhar",
+      "description": "O termo Pisar é usado para dizer que uma pessoa é muito superior a outra. Exemplo: Pisa menos Beyoncé/Humilha menos Beyoncé ",
+      "reference": ""
     }
   ]
 }
