@@ -4,6 +4,7 @@
       "name": "0800",
       "meaning": "De graça",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
@@ -13,24 +14,28 @@
       ],
       "meaning": "Maluco",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Bora",
       "meaning": "Vamos",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Chavosa",
       "meaning": "Estilosa",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Chavoso",
       "meaning": "Estiloso",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
@@ -41,72 +46,84 @@
       ],
       "meaning": "Tudo certo",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Ligeiro",
       "meaning": "Esperto",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Parça",
       "meaning": "Amigo",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Recalque",
       "meaning": "Inveja",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Recalcada",
       "meaning": "Invejosa",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Recalcado",
       "meaning": "Invejoso",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Talarica",
       "meaning": "Traidora",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Talarico",
       "meaning": "Traidor",
       "description": "",
+      "example": "",
       "reference": ""
     },
     {
       "name": "Crush",
       "meaning": "Paquera",
-      "description": "O termo Crush é semelhante ao termo 'queda' ou 'estar afim'. Exemplo na frase: Ele tem um crush nela/Ele esta afim dela",
+      "description": "O termo Crush é semelhante ao termo 'queda' ou 'estar afim'.",
+      "example": "Ele tem um crush nela",
       "reference": ""
     },
     {
       "name": "Parça",
       "meaning": "Amigo",
-      "description": "O termo Parça é usado para dizer que uma pessoa é sua amiga. Exemplo: Ele é o meu parça/Ele é o meu amigo ",
+      "description": "O termo Parça é usado para dizer que uma pessoa é sua amiga.",
+      "example": "E aí, meu parça!",
       "reference": ""
     },
     {
       "name": "Pistolou",
       "meaning": "Raiva",
-      "description": "O termo Pistolou é usado para dizer que uma pessoa está com muita raiva. Exemplo: Ele pistolou/Ele está com muita raiva ",
+      "description": "O termo Pistolou é usado para dizer que uma pessoa está com muita raiva.",
+      "example": "A mina tá pistola hoje!",
       "reference": ""
     },
     {
       "name": "Pisar",
       "meaning": "Humilhar",
-      "description": "O termo Pisar é usado para dizer que uma pessoa é muito superior a outra. Exemplo: Pisa menos Beyoncé/Humilha menos Beyoncé ",
+      "description": "O termo Pisar é usado para dizer que uma pessoa é muito superior a outra.",
+      "example": "Pisa menos, Beyoncé!",
       "reference": ""
     },
     {
