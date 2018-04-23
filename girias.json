@@ -132,6 +132,20 @@
       "description": "O termo Lacrou é usado quando uma pessoa quer informar a pessoa que ela Arrasou no ato realizado, ou seja, se saiu bem no ato.",
       "example": "Exemplo: Amiga você Lacrou nessa maquiagem/Amiga você se saiu bem nessa maquiagem",
       "reference": ""
-    }
+    },
+    {
+      "name": "Dar PT",
+      "meaning": "Dar Perda Total",
+      "description": "usada quando alguém bebe muito e fica extremamente bêbado, chegando a perder os seus sentidos",
+      "example": "João bebeu muito na festa da rep e deu PT",
+      "reference": ""
+    },
+    {
+      "name": "PDP",
+      "meaning": "Pode pá",
+      "description": "usada como forma de afirmação, ou seja, representando que a pessoa concorda totalmente com determinada coisas",
+      "example": "- vamos ao cinema hoje? -pdp",
+      "reference": ""
+    },
   ]
 }
