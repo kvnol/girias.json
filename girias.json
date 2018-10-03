@@ -32,6 +32,13 @@
       "reference": ""
     },
     {
+      "name": "Chavosa",
+      "meaning": "Estilosa",
+      "description": "",
+      "example": "",
+      "reference": ""
+    },
+    {
       "name": "Chavoso",
       "meaning": "Estiloso",
       "description": "",
@@ -146,6 +153,22 @@
       "description": "usada como forma de afirmação, ou seja, representando que a pessoa concorda totalmente com determinada coisas",
       "example": "- vamos ao cinema hoje? -pdp",
       "reference": ""
-    }
+    },
+    {
+      "name": [
+        "Tamo junto",
+        "É nóis"
+      ],
+      "meaning": "Estou contigo nessa",
+      "description": "usada como forma de enaltecer alianças, ou seja, dizer para o outro que o mesmo é amigo dele",
+      "example": "- Cóe irmão, sabe que nóis tamo junto!"
+    },
+    {
+      "name": "Coé",
+      "meaning": "'qual é?', 'o que foi' ou 'O que é isso?'",
+      "description": "Usada durante uma interrogação, com uma leve ameaça",
+      "example": "coé malandro?? tá louco?",
+      "reference": "http://www.qualeagiria.com.br/giria/coe/"
+    },
   ]
 }
