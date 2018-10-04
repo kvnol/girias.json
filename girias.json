@@ -1,6 +1,5 @@
 {
-  "slang": [
-    {
+  "slang": [{
       "name": "0800",
       "meaning": "De graça",
       "description": "Nenhum valor será cobrado para fazer determinada ação",
@@ -170,5 +169,19 @@
       "example": "coé malandro?? tá louco?",
       "reference": "http://www.qualeagiria.com.br/giria/coe/"
     },
+    {
+      "name": "SQN",
+      "meaning": "Só que não",
+      "description": "Usada no final de uma frase, pra negar tudo o que foi falado antes.",
+      "example": "Achei 10 reais na rua... sqn.",
+      "reference": "http://www.qualeagiria.com.br/giria/sqn/"
+    },
+    {
+      "name": "Zica",
+      "meaning": "Só que não",
+      "description": "Significa azar, má sorte, maldição, dar merda, dar errado, problema. Ou significa muito bom, o melhor no geral.",
+      "example": "Essa mina é mó zica mano, sai fora!",
+      "reference": "http://www.qualeagiria.com.br/giria/zica/"
+    }
   ]
 }
