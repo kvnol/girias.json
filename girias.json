@@ -3,7 +3,7 @@
     {
       "name": "0800",
       "meaning": "De graça",
-      "description": "",
+      "description": "Nenhum valor será cobrado para fazer determinada ação",
       "example": "",
       "reference": ""
     },
@@ -20,7 +20,7 @@
     {
       "name": "Bora",
       "meaning": "Vamos",
-      "description": "",
+      "description": "Locomover; mover-se de um local para outro",
       "example": "",
       "reference": ""
     },
@@ -66,14 +66,14 @@
     {
       "name": "Parça",
       "meaning": "Amigo",
-      "description": "",
+      "description": "Nome que se dá a um indivíduo que mantém um relacionamento de afeto",
       "example": "",
       "reference": ""
     },
     {
       "name": "Recalque",
       "meaning": "Inveja",
-      "description": "",
+      "description": "Desgosto provocado pela felicidade ou prosperidade alheia.",
       "example": "",
       "reference": ""
     },
@@ -87,21 +87,21 @@
     {
       "name": "Recalcado",
       "meaning": "Invejoso",
-      "description": "",
+      "description": "Que ou aquele que sente inveja, que ou quem revela, em seus gestos, palavras etc., inveja em relação a outrem.",
       "example": "",
       "reference": ""
     },
     {
       "name": "Talarica",
       "meaning": "Traidora",
-      "description": "",
+      "description": "Aquela que trai, comete traição",
       "example": "",
       "reference": ""
     },
     {
       "name": "Talarico",
       "meaning": "Traidor",
-      "description": "",
+      "description": "Aquele que trai, comete traição",
       "example": "",
       "reference": ""
     },
