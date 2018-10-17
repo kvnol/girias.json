@@ -1,9 +1,10 @@
 {
-  "slang": [{
+  "slang": [
+    {
       "name": "0800",
       "meaning": "De graça",
       "description": "Nenhum valor será cobrado para fazer determinada ação",
-      "example": "",
+      "example": "O churrascão vai ser 0800",
       "reference": ""
     },
     {
@@ -12,36 +13,26 @@
         "Treze"
       ],
       "meaning": "Maluco",
-      "description": "",
-      "example": "",
+      "description": "Pessoa louca, doida, maluca.",
+      "example": "O Marcão é muito 13",
       "reference": ""
     },
     {
       "name": "Bora",
       "meaning": "Vamos",
       "description": "Locomover; mover-se de um local para outro",
-      "example": "",
+      "example": "Bora ir pra casa da Marina?",
       "reference": ""
     },
     {
-      "name": "Chavosa",
-      "meaning": "Estilosa",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Chavosa",
-      "meaning": "Estilosa",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Chavoso",
+      "name": [
+        "Chave",
+        "Chavosa",
+        "Chavoso"
+      ],
       "meaning": "Estiloso",
-      "description": "",
-      "example": "",
+      "description": "Algo que tem estilo.",
+      "example": "Ela tava chavosa hoje",
       "reference": ""
     },
     {
@@ -51,57 +42,52 @@
         "pdp"
       ],
       "meaning": "Tudo certo",
-      "description": "",
-      "example": "",
+      "description": "Confirmação; tudo certo, tranquilo.",
+      "example": "Vou aparecer na festa sim pode pá",
       "reference": ""
     },
     {
       "name": "Ligeiro",
       "meaning": "Esperto",
-      "description": "",
-      "example": "",
+      "description": "Com velocidade acelerada; veloz, ágil.",
+      "example": "Vou ir pra lá ligeiro",
       "reference": ""
     },
     {
-      "name": "Parça",
+      "name": [
+        "Parça",
+        "Parceiro"
+      ],
       "meaning": "Amigo",
       "description": "Nome que se dá a um indivíduo que mantém um relacionamento de afeto",
-      "example": "",
+      "example": "Fala meu parça, tudo certo?",
       "reference": ""
     },
     {
       "name": "Recalque",
       "meaning": "Inveja",
       "description": "Desgosto provocado pela felicidade ou prosperidade alheia.",
-      "example": "",
+      "example": "Seu recalque tá demais",
       "reference": ""
     },
     {
-      "name": "Recalcada",
-      "meaning": "Invejosa",
-      "description": "",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Recalcado",
+      "name": [
+        "Recalcada",
+        "Recalcado"
+      ],
       "meaning": "Invejoso",
       "description": "Que ou aquele que sente inveja, que ou quem revela, em seus gestos, palavras etc., inveja em relação a outrem.",
-      "example": "",
+      "example": "Tu é muito recalcada",
       "reference": ""
     },
     {
-      "name": "Talarica",
-      "meaning": "Traidora",
-      "description": "Aquela que trai, comete traição",
-      "example": "",
-      "reference": ""
-    },
-    {
-      "name": "Talarico",
+      "name": [
+        "Talarica",
+        "Talarico"
+      ],
       "meaning": "Traidor",
-      "description": "Aquele que trai, comete traição",
-      "example": "",
+      "description": "Aquele que trai, comete traição, fura-olho.",
+      "example": "Talarico e zé polvinho na quebrada não tem vez",
       "reference": ""
     },
     {
@@ -109,13 +95,6 @@
       "meaning": "Paquera",
       "description": "O termo Crush é semelhante ao termo 'queda' ou 'estar afim'.",
       "example": "Ele tem um crush nela",
-      "reference": ""
-    },
-    {
-      "name": "Parça",
-      "meaning": "Amigo",
-      "description": "O termo Parça é usado para dizer que uma pessoa é sua amiga.",
-      "example": "E aí, meu parça!",
       "reference": ""
     },
     {
@@ -147,20 +126,14 @@
       "reference": ""
     },
     {
-      "name": "PDP",
-      "meaning": "Pode pá",
-      "description": "usada como forma de afirmação, ou seja, representando que a pessoa concorda totalmente com determinada coisas",
-      "example": "- vamos ao cinema hoje? -pdp",
-      "reference": ""
-    },
-    {
       "name": [
         "Tamo junto",
         "É nóis"
       ],
       "meaning": "Estou contigo nessa",
       "description": "usada como forma de enaltecer alianças, ou seja, dizer para o outro que o mesmo é amigo dele",
-      "example": "- Cóe irmão, sabe que nóis tamo junto!"
+      "example": "- Cóe irmão, sabe que nóis tamo junto!",
+      "reference": ""
     },
     {
       "name": "Coé",
