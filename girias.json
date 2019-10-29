@@ -190,6 +190,14 @@
       "example": "A senhora foi lá? Coragem",
       "reference": "",
       "local": ""
+    },
+    {
+      "name": "Ta na disney",
+      "meaning": "Falando/fazendo absurdos",
+      "description": "Dizer que alguém 'ta na disney' é o mesmo que falar que ele está no 'mundo da lua', está fazendo ou falando absurdos que não estão condizentes com a realidade",
+      "example": "Fulano tá na disney se está achando que vou namorar com ele.",
+      "reference": "",
+      "local": ""
     }
   ]
 }
