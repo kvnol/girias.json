@@ -198,6 +198,30 @@
       "example": "Fulano tá na disney se está achando que vou namorar com ele.",
       "reference": "",
       "local": ""
+    },
+    {
+      "name": "Pocar",
+      "meaning": "Mesmo que o verbo Estourar ou Arrebentar",
+      "description": "Expressão capixaba de dizer que algo arrebentou ou estourou",
+      "example": "Pocou a linha aqui / Pocou o balão / Vou pocar sua cara",
+      "reference": "",
+      "local": "Estado Brasileiro: Espirito Santo"
+    },
+    {
+      "name": "Trem",
+      "meaning": "Algo / Coisa",
+      "description": "Expressão mineira de chamar coisas ao invés do nome correto",
+      "example": "Põe esse trem na geladeira pra não estragar / Tira esse trem daqui / Trem bão sô",
+      "reference": "",
+      "local": "Estado Brasileiro: Minas gerais"
+    },
+    {
+      "name": "Lêra",
+      "meaning": "Definição de grandeza",
+      "description": "Palavra utilizada para quantificar em muito alguma ação. Corri lêra! é o mesmo que: corri demais de tal coisa",
+      "example": "Corri Lêra pra chegar a tempo da aula",
+      "reference": "",
+      "local": "Cidade Brasileira: Ipanema-MG"
     }
   ]
 }
