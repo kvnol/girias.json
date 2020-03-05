@@ -2,7 +2,7 @@
 JSON API com gírias da rua e seus significados.
 
 ## API
----
+
 ### Instalação
 
 ```bash
