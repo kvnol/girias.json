@@ -2,6 +2,7 @@ import json
 from tinydb import TinyDB, Query
 
 db = TinyDB('./database.json')
+table = db.table('slangs')
 
 """
     Initialize JSON migration to database
@@ -12,7 +13,7 @@ def run():
         for slang in data["slang"]:
             for nSlang in normalize(slang):
                 print(nSlang)
-                db.insert(nSlang)
+                table.insert(nSlang)
 
 """
     Normalize slang to database insert

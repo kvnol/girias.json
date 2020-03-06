@@ -13,5 +13,8 @@ py __builder__.py
 ### Inicialização
 
 ```bash
-uvicorn api.main:app --reload
+uvicorn main:app --reload
 ```
+
+### Documentação
+Basta acessar http://localhost:8000/docs
